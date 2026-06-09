@@ -18,3 +18,21 @@
 
 
 #wap to find the second largest element in list?
+
+
+# class A:
+#     def __init__(self):
+#         self.a=18
+#         print("aaa")
+#     def __init__(self):
+#         self.b=273
+#         print("bbb")
+#     def __init__(self):
+#         self.a=18
+#         print("aaabbb")
+#     def __init__(self):
+#         self.b=273
+#         print("bbccccb")
+# a1=A()
+# # print(a1.a)
+# # print(a1.b)
